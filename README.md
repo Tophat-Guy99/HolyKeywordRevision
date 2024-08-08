@@ -3,5 +3,5 @@ The (hopefully) final installment in the Holy Computing Notes saga. Use to help 
 
 ## Installation steps
 - Download the folder `HolyKeywordRevision`
-- Run main.py
+- Run `main.py`
 - Note: `keywords.txt` and `main.py` should remain in the same folder.
