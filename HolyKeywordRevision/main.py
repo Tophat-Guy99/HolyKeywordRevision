@@ -68,43 +68,44 @@ def RawAlphaNumeric(String):
             New += " "
     return New
 
+def Startup():
+    print("What chapters would you like to revise? Input a corresponding number to select.")
+    print("""
+    1: Computer Architecture\n
+    2: Algorithms\n
+    3: Designing Algorithms\n
+    4: Programming\n
+    5: Program Development\n
+    6:Program Testing\n
+    7: Ethics\n
+    8: Number Systems & Applications"\n
+    9: Logic Gates\n
+    10: Excel Theory\n
+    11: Excel Functions\n
+    12: Computer Networks\n
+""")
+    ChapterIndexes = []
+    while True:
+        try:
+            while True:
+                Chapter = int(input())
+                if Chapter-1 not in list(range(0, 12)):
+                    raise ValueError("just to force an except code")
+                elif Chapter-1 not in ChapterIndexes:
+                    ChapterIndexes.append(Chapter-1)
+                    break
+        except:
+            print("I said 'input a corresponding number' to the chapters provided, idiot.")
+        PickAnother = input("Input 'Y' to add another chapter. Input anything else to begin revision.")
+        if PickAnother.upper() != "Y":
+            break
+    return ChapterIndexes
+
 print("HOLY COMPUTING KEYWORD REVISION")
 print("Credits: Michael de Beyer\n")
 ShuffledPool = {}
 
 while True:
-    def Startup():
-        print("What chapters would you like to revise? Input a corresponding number to select.")
-        print("""
-        1: Computer Architecture\n
-        2: Algorithms\n
-        3: Designing Algorithms\n
-        4: Programming\n
-        5: Program Development\n
-        6:Program Testing\n
-        7: Ethics\n
-        8: Number Systems & Applications"\n
-        9: Logic Gates\n
-        10: Excel Theory\n
-        11: Excel Functions\n
-        12: Computer Networks\n
-    """)
-        ChapterIndexes = []
-        while True:
-            try:
-                while True:
-                    Chapter = int(input())
-                    if Chapter-1 not in list(range(0, 12)):
-                        raise ValueError("just to force an except code")
-                    elif Chapter-1 not in ChapterIndexes:
-                        ChapterIndexes.append(Chapter-1)
-                        break
-            except:
-                print("I said 'input a corresponding number' to the chapters provided, idiot.")
-            PickAnother = input("Input 'Y' to add another chapter. Input anything else to begin revision.")
-            if PickAnother.upper() != "Y":
-                break
-        return ChapterIndexes
     ChapterIndexes = Startup()
 
     for i in range(len(ChapterIndexes)):
@@ -134,7 +135,7 @@ while True:
                 break
             else:
                 Retry = input("Answer is incorrect. Press 'R' to retry, anything else to reveal answer: ")
-                
+
                 if Retry.upper() != "R":
                     print("Answer: " + keywordlist[Index][QuestionIndex])
                     break
