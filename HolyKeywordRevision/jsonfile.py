@@ -34,7 +34,7 @@ for keyword_definition in keyword_and_definitions:
 
     keywords.append({
         "keyword": keyword_definition_list[0],
-        "definition": keyword_definition_list[1],
+        "definition": keyword_definition_list[1].strip(),
         "chapter": chapter_reference_list[chapter_index]
     })
 

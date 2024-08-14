@@ -1,1562 +1,1562 @@
 [
   {
     "keyword": "bit",
-    "definition": " A binary digit, the smallest unit of data in a computer. Takes on the value of either 0 or 1.\n",
+    "definition": "A binary digit, the smallest unit of data in a computer. Takes on the value of either 0 or 1.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "byte",
-    "definition": " A unit of data made up of 8 bits.\n",
+    "definition": "A unit of data made up of 8 bits.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "computer",
-    "definition": " A device that can receive data, process data according to a sequence of instructions and produce the processed data as a result.\n",
+    "definition": "A device that can receive data, process data according to a sequence of instructions and produce the processed data as a result.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "computer architecture",
-    "definition": " A description of how a computer is designed and built to function, including how its parts are designed, organised and connected.\n",
+    "definition": "A description of how a computer is designed and built to function, including how its parts are designed, organised and connected.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "data",
-    "definition": " Information that is used in a computer program.\n",
+    "definition": "Information that is used in a computer program.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "gibibyte",
-    "definition": " 1024^3 bytes\n",
+    "definition": "1024^3 bytes",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "gigabyte",
-    "definition": " 10^9 bytes\n",
+    "definition": "10^9 bytes",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "kibibyte",
-    "definition": " 1024 bytes\n",
+    "definition": "1024 bytes",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "kilobyte",
-    "definition": " 1000 bytes\n",
+    "definition": "1000 bytes",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "megabyte",
-    "definition": " 10^6 bytes\n",
+    "definition": "10^6 bytes",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "mebibyte",
-    "definition": " 1024^2 bytes\n",
+    "definition": "1024^2 bytes",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "tebibyte",
-    "definition": " 1024^4 bytes\n",
+    "definition": "1024^4 bytes",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "terabyte",
-    "definition": " 10^12 bytes\n",
+    "definition": "10^12 bytes",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "address",
-    "definition": " A number used to locate a byte in the memory\n",
+    "definition": "A number used to locate a byte in the memory",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "address bus",
-    "definition": " A hardware component that transfers the required memory location from processor to memory: it is uni-directional.\n",
+    "definition": "A hardware component that transfers the required memory location from processor to memory: it is uni-directional.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "arithmetic logic unit",
-    "definition": " The part of the processor that processes data by performing basic mathematical and logical operations.\n",
+    "definition": "The part of the processor that processes data by performing basic mathematical and logical operations.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "bus",
-    "definition": " A collection of wires that transport data from one part of a computer to another.\n",
+    "definition": "A collection of wires that transport data from one part of a computer to another.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "central processing unit",
-    "definition": " A hardware component that processes data and follows instructions, consisting of an ALU and CU.\n",
+    "definition": "A hardware component that processes data and follows instructions, consisting of an ALU and CU.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "control unit",
-    "definition": " The part of the processor that follows instructions and decides when data should be stored, received or transmitted by different parts of the computer.\n",
+    "definition": "The part of the processor that follows instructions and decides when data should be stored, received or transmitted by different parts of the computer.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "data bus",
-    "definition": " A hardware component that transfers data between memory and processor: it is bi-directional.\n",
+    "definition": "A hardware component that transfers data between memory and processor: it is bi-directional.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "executes",
-    "definition": " Another word for when a processor 'runs' instructions, aka: Following or performing said instructions.\n",
+    "definition": "Another word for when a processor 'runs' instructions, aka: Following or performing said instructions.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "hard disk",
-    "definition": " Secondary storage where data is stored on rigid rotating disks coated with magnetic material.\n",
+    "definition": "Secondary storage where data is stored on rigid rotating disks coated with magnetic material.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "input",
-    "definition": " Data or instructions that the computer receives for processing.\n",
+    "definition": "Data or instructions that the computer receives for processing.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "input device",
-    "definition": " A hardware device that allows users to enter data and instructions into a computer. Examples are keyboards, mice, scanners, touch screens and microphones.\n",
+    "definition": "A hardware device that allows users to enter data and instructions into a computer. Examples are keyboards, mice, scanners, touch screens and microphones.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "magnetic",
-    "definition": " A type of drive stores data on a magnetic material that can be read or written by a magnetic head. An example is a hard disk.\n",
+    "definition": "A type of drive stores data on a magnetic material that can be read or written by a magnetic head. An example is a hard disk.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "memory",
-    "definition": " Something that stores data, instructions and the results of processing for immediate use in a computer.\n",
+    "definition": "Something that stores data, instructions and the results of processing for immediate use in a computer.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "optical",
-    "definition": " A type of drive that stores data as very small pits/indendations that can be read or written by a laser. Example: Digital Versatile Disc (DVD).\n",
+    "definition": "A type of drive that stores data as very small pits/indendations that can be read or written by a laser. Example: Digital Versatile Disc (DVD).",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "output",
-    "definition": " Intermediate or final results produced by the computer in the form of processed data.\n",
+    "definition": "Intermediate or final results produced by the computer in the form of processed data.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "output device",
-    "definition": " A hardware device used to display, project or print processed data from a computer so that it can be used or understood by people using the computer. Examples are monitors, speakers and printers.\n",
+    "definition": "A hardware device used to display, project or print processed data from a computer so that it can be used or understood by people using the computer. Examples are monitors, speakers and printers.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "processor registers",
-    "definition": " Extremely fast but small data storage spaces that are used directly by the ALU and control unit. They are physically located inside the processor that cannot be changed without changing the processor.\n",
+    "definition": "Extremely fast but small data storage spaces that are used directly by the ALU and control unit. They are physically located inside the processor that cannot be changed without changing the processor.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "random access memory",
-    "definition": " A type of memory where data and instructions are stored temporarily so that they can be quickly accessed by the processor when needed, aka 'main memory'.\n",
+    "definition": "A type of memory where data and instructions are stored temporarily so that they can be quickly accessed by the processor when needed, aka 'main memory'.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "read-only memory",
-    "definition": " Memory where data and instructions that rarely need to change or would be needed for a computer to start up are stored. Data stored cannot be easily changed and remains there regardless of whether the power supply is switched on or off.\n",
+    "definition": "Memory where data and instructions that rarely need to change or would be needed for a computer to start up are stored. Data stored cannot be easily changed and remains there regardless of whether the power supply is switched on or off.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "secondary storage",
-    "definition": " A type of memory stores large amounts of data that will not be lost when the power supply is interrupted.\n",
+    "definition": "A type of memory stores large amounts of data that will not be lost when the power supply is interrupted.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "software",
-    "definition": " A series of instructions, also known as a 'program'.\n",
+    "definition": "A series of instructions, also known as a 'program'.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "solid-state",
-    "definition": " A type of drive stores data in electronic circuits called \u201cflash memory\u201d that have no moving parts. Examples include memory cards.\n",
+    "definition": "A type of drive stores data in electronic circuits called \u201cflash memory\u201d that have no moving parts. Examples include memory cards.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "volatile",
-    "definition": " Data that is lost once the power supply to the computer is interrupted.\n",
+    "definition": "Data that is lost once the power supply to the computer is interrupted.",
     "chapter": "Computer Architecture"
   },
   {
     "keyword": "algorithm",
-    "definition": " A set of step-by-step instructions for solving a problem.\n",
+    "definition": "A set of step-by-step instructions for solving a problem.",
     "chapter": "Algorithms"
   },
   {
     "keyword": "decomposition",
-    "definition": " The technique of breaking down a complex problem or process into smaller and more manageable parts.\n",
+    "definition": "The technique of breaking down a complex problem or process into smaller and more manageable parts.",
     "chapter": "Algorithms"
   },
   {
     "keyword": "generalisation",
-    "definition": " The technique of replacing two or more similar problems or solutions with a single, more general problem or solution.\n",
+    "definition": "The technique of replacing two or more similar problems or solutions with a single, more general problem or solution.",
     "chapter": "Algorithms"
   },
   {
     "keyword": "incremental approach",
-    "definition": " An approach to solving a problem in which quantitative features of the input or output that are causing the problem to be too large to handle are identified. Sometimes, the solution to a small version of the problem with one or more of these features reduced can be found and gradually extended to larger versions of the problem. Each gradual extension of the solution is a separate sub-problem.\n",
+    "definition": "An approach to solving a problem in which quantitative features of the input or output that are causing the problem to be too large to handle are identified. Sometimes, the solution to a small version of the problem with one or more of these features reduced can be found and gradually extended to larger versions of the problem. Each gradual extension of the solution is a separate sub-problem.",
     "chapter": "Algorithms"
   },
   {
     "keyword": "input",
-    "definition": " Data used by an algorithm that can affect what is required for correct output.\n",
+    "definition": "Data used by an algorithm that can affect what is required for correct output.",
     "chapter": "Algorithms"
   },
   {
     "keyword": "modular approach",
-    "definition": " An approach to solving a problem in which simple examples of the problem are solved manually and tasks of different natures are identified. Usually, these tasks can be separated from each other to become distinct sub-problems.\n",
+    "definition": "An approach to solving a problem in which simple examples of the problem are solved manually and tasks of different natures are identified. Usually, these tasks can be separated from each other to become distinct sub-problems.",
     "chapter": "Algorithms"
   },
   {
     "keyword": "output",
-    "definition": " Results produced by an algorithm.\n",
+    "definition": "Results produced by an algorithm.",
     "chapter": "Algorithms"
   },
   {
     "keyword": "pattern recognition",
-    "definition": " The technique of identifying similarities among two or more items.\n",
+    "definition": "The technique of identifying similarities among two or more items.",
     "chapter": "Algorithms"
   },
   {
     "keyword": "solution",
-    "definition": " The algorithm that always gives correct outputs when provided with valid inputs.\n",
+    "definition": "The algorithm that always gives correct outputs when provided with valid inputs.",
     "chapter": "Algorithms"
   },
   {
     "keyword": "sub-problem",
-    "definition": " A problem whose solution contributes to the solution of a bigger problem.\n",
+    "definition": "A problem whose solution contributes to the solution of a bigger problem.",
     "chapter": "Algorithms"
   },
   {
     "keyword": "branch",
-    "definition": " A sequence of instructions that serves as one option out of two or more choices.\n",
+    "definition": "A sequence of instructions that serves as one option out of two or more choices.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "construct",
-    "definition": " An algorithm structure with exactly one entry point and one exit point.\n",
+    "definition": "An algorithm structure with exactly one entry point and one exit point.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "data",
-    "definition": " A parallelogram-shaped flowchart symbol, which represents the step of either receiving input data from outside the algorithm using the INPUT command or producing output from within the algorithm using the OUTPUT command.\n",
+    "definition": "A parallelogram-shaped flowchart symbol, which represents the step of either receiving input data from outside the algorithm using the INPUT command or producing output from within the algorithm using the OUTPUT command.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "decision",
-    "definition": " A diamond-shaped flowchart symbol, which represents a step involving a question. The outgoing arrows represent the possible outcomes to the question and are usually labeled \u201cYes\u201d and \u201cNo\u201d. Only one of these outgoing arrows should be followed when performing the algorithm.\n",
+    "definition": "A diamond-shaped flowchart symbol, which represents a step involving a question. The outgoing arrows represent the possible outcomes to the question and are usually labeled \u201cYes\u201d and \u201cNo\u201d. Only one of these outgoing arrows should be followed when performing the algorithm.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "dry run",
-    "definition": " The process of running through a set of steps manually. \n",
+    "definition": "The process of running through a set of steps manually.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "flowchart",
-    "definition": " A visual presentation of an algorithm using symbols to show the flow of a sequence of steps.\n",
+    "definition": "A visual presentation of an algorithm using symbols to show the flow of a sequence of steps.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "flow lines",
-    "definition": " An indication of the order in which steps are followed in a flowchart, aka 'arrows'.\n",
+    "definition": "An indication of the order in which steps are followed in a flowchart, aka 'arrows'.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "initialised",
-    "definition": " When a value is stored or assigned to a variable for the first time, the variable is...\n",
+    "definition": "When a value is stored or assigned to a variable for the first time, the variable is...",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "iteration construct",
-    "definition": " A construct for repeating instructions while a particular condition is true.\n",
+    "definition": "A construct for repeating instructions while a particular condition is true.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "pseudo-code",
-    "definition": " A description of an algorithm using natural language (such as English) mixed with sequence, selection and iteration constructs.\n",
+    "definition": "A description of an algorithm using natural language (such as English) mixed with sequence, selection and iteration constructs.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "process",
-    "definition": " A rectangular flowchart symbol, which represents a step involving an action or operation.\n",
+    "definition": "A rectangular flowchart symbol, which represents a step involving an action or operation.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "selection construct",
-    "definition": " A construct for choosing between two or more branches based on a particular condition.\n",
+    "definition": "A construct for choosing between two or more branches based on a particular condition.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "sequence construct",
-    "definition": " A construct for performing multiple instructions in a fixed order.\n",
+    "definition": "A construct for performing multiple instructions in a fixed order.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "symbol",
-    "definition": " Special shape used to represent an action of a step in a flowchart.\n",
+    "definition": "Special shape used to represent an action of a step in a flowchart.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "terminator",
-    "definition": " A rectangular symbol with rounded corners (pill-shaped). It represents the beginning or end of a sequence of steps and usually contains either the START or STOP(END) command.\n",
+    "definition": "A rectangular symbol with rounded corners (pill-shaped). It represents the beginning or end of a sequence of steps and usually contains either the START or STOP(END) command.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "test data",
-    "definition": " Input data that is used to perform a dry run.\n",
+    "definition": "Input data that is used to perform a dry run.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "trace table",
-    "definition": " The tabulation of the change in variables as well as the output of an algorithm when performing a dry run.\n",
+    "definition": "The tabulation of the change in variables as well as the output of an algorithm when performing a dry run.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "variable",
-    "definition": " In a flowchart or pseudo-code, this is a named storage space for a value that can be changed while the algorithm is running.\n",
+    "definition": "In a flowchart or pseudo-code, this is a named storage space for a value that can be changed while the algorithm is running.",
     "chapter": "Designing Algorithms"
   },
   {
     "keyword": "Boolean",
-    "definition": " A common data type in programming languages that represents either 'true' or 'false'.\n",
+    "definition": "A common data type in programming languages that represents either 'true' or 'false'.",
     "chapter": "Programming"
   },
   {
     "keyword": "command line interface",
-    "definition": " A means of interacting with a program such that commands are given as lines of text.\n",
+    "definition": "A means of interacting with a program such that commands are given as lines of text.",
     "chapter": "Programming"
   },
   {
     "keyword": "comment",
-    "definition": " A piece of source code that explains the program but is ignored by the Python interpreter.\n",
+    "definition": "A piece of source code that explains the program but is ignored by the Python interpreter.",
     "chapter": "Programming"
   },
   {
     "keyword": "compiler",
-    "definition": " A code translator program that translates source code into machine code completely before running the compiled program.\n",
+    "definition": "A code translator program that translates source code into machine code completely before running the compiled program.",
     "chapter": "Programming"
   },
   {
     "keyword": "constant",
-    "definition": " A name with an associated value that usually cannot be changed while the program is running.\n",
+    "definition": "A name with an associated value that usually cannot be changed while the program is running.",
     "chapter": "Programming"
   },
   {
     "keyword": "graphical user interface",
-    "definition": " A means of interacting with a program such that commands are given using visual elements such as windows, icons, menus and mouse pointers. \n",
+    "definition": "A means of interacting with a program such that commands are given using visual elements such as windows, icons, menus and mouse pointers.",
     "chapter": "Programming"
   },
   {
     "keyword": "floating-point number",
-    "definition": " A common data type in programming languages that represents real numbers that contain a fractional part.\n",
+    "definition": "A common data type in programming languages that represents real numbers that contain a fractional part.",
     "chapter": "Programming"
   },
   {
     "keyword": "identifier",
-    "definition": " A sequence of characters that follows certain rules and can be used as a variable name.\n",
+    "definition": "A sequence of characters that follows certain rules and can be used as a variable name.",
     "chapter": "Programming"
   },
   {
     "keyword": "instruction set",
-    "definition": " A set of basic commands or instructions that a processor can understand directly, represented in byte form.\n",
+    "definition": "A set of basic commands or instructions that a processor can understand directly, represented in byte form.",
     "chapter": "Programming"
   },
   {
     "keyword": "integer",
-    "definition": " A common data type in programming languages that represents whole numbers, positive, negative, and zero included.\n",
+    "definition": "A common data type in programming languages that represents whole numbers, positive, negative, and zero included.",
     "chapter": "Programming"
   },
   {
     "keyword": "interactive mode",
-    "definition": " A feature of Python that allows source code to be entered, line by line, for the interpreter to run immediately and show the results.\n",
+    "definition": "A feature of Python that allows source code to be entered, line by line, for the interpreter to run immediately and show the results.",
     "chapter": "Programming"
   },
   {
     "keyword": "interpreter",
-    "definition": " A code translator program that translates source code into machine code while the interpreted program is running.\n",
+    "definition": "A code translator program that translates source code into machine code while the interpreted program is running.",
     "chapter": "Programming"
   },
   {
     "keyword": "machine code",
-    "definition": " Instructions that can run directly on a computer\u2019s processor.\n",
+    "definition": "Instructions that can run directly on a computer\u2019s processor.",
     "chapter": "Programming"
   },
   {
     "keyword": "keyword",
-    "definition": " A word that has a special meaning in a programming language and cannot be used as an identifier.\n",
+    "definition": "A word that has a special meaning in a programming language and cannot be used as an identifier.",
     "chapter": "Programming"
   },
   {
     "keyword": "list",
-    "definition": " A data type in Python for storing multiple values in a sequence, sometimes referred to as an 'array'.\n",
+    "definition": "A data type in Python for storing multiple values in a sequence, sometimes referred to as an 'array'.",
     "chapter": "Programming"
   },
   {
     "keyword": "naming convention",
-    "definition": " A set of generally accepted rules for how identifiers or names should be chosen.\n",
+    "definition": "A set of generally accepted rules for how identifiers or names should be chosen.",
     "chapter": "Programming"
   },
   {
     "keyword": "program",
-    "definition": " A set of instructions written to perform specific tasks on a computer.\n",
+    "definition": "A set of instructions written to perform specific tasks on a computer.",
     "chapter": "Programming"
   },
   {
     "keyword": "programming language",
-    "definition": " A language designed for humans to communicate instructions to computers.\n",
+    "definition": "A language designed for humans to communicate instructions to computers.",
     "chapter": "Programming"
   },
   {
     "keyword": "source code",
-    "definition": " Instructions written in a programming language that both humans and computers can understand.\n",
+    "definition": "Instructions written in a programming language that both humans and computers can understand.",
     "chapter": "Programming"
   },
   {
     "keyword": "string",
-    "definition": " A common data type in programming languages that represents text as a sequence of characters or symbols.\n",
+    "definition": "A common data type in programming languages that represents text as a sequence of characters or symbols.",
     "chapter": "Programming"
   },
   {
     "keyword": "syntax",
-    "definition": " Rules that determine how the words and symbols in a valid instruction are arranged.\n",
+    "definition": "Rules that determine how the words and symbols in a valid instruction are arranged.",
     "chapter": "Programming"
   },
   {
     "keyword": "syntax error",
-    "definition": " The result of incorrect source code that  does not follow the rules of the language.\n",
+    "definition": "The result of incorrect source code that  does not follow the rules of the language.",
     "chapter": "Programming"
   },
   {
     "keyword": "syntax highlighting",
-    "definition": " A feature that displays different parts of source code differently (such as using different colours and fonts) in a text editor based on the rules of the programming language to make reading easier.\n",
+    "definition": "A feature that displays different parts of source code differently (such as using different colours and fonts) in a text editor based on the rules of the programming language to make reading easier.",
     "chapter": "Programming"
   },
   {
     "keyword": "variable",
-    "definition": " A name with an associated value that can be changed while the program is running.\n",
+    "definition": "A name with an associated value that can be changed while the program is running.",
     "chapter": "Programming"
   },
   {
     "keyword": "argument",
-    "definition": " An additional value that can be supplied as input to a function call.\n",
+    "definition": "An additional value that can be supplied as input to a function call.",
     "chapter": "Programming"
   },
   {
     "keyword": "array",
-    "definition": " A sequence where all the items have the same size and are arranged consecutively in memory: informally also used as a synonym for list.\n",
+    "definition": "A sequence where all the items have the same size and are arranged consecutively in memory: informally also used as a synonym for list.",
     "chapter": "Programming"
   },
   {
     "keyword": "body",
-    "definition": " The sequence of statements inside a user-defined function\n",
+    "definition": "The sequence of statements inside a user-defined function",
     "chapter": "Programming"
   },
   {
     "keyword": "escape code",
-    "definition": " A sequence of characters used to input characters that are either difficult to type out as part of a literal or would cause a syntax error if not treated specially. For example, to add a newline character to a string, we can use \"\\n\".\n",
+    "definition": "A sequence of characters used to input characters that are either difficult to type out as part of a literal or would cause a syntax error if not treated specially. For example, to add a newline character to a string, we can use \"\\n\".",
     "chapter": "Programming"
   },
   {
     "keyword": "function",
-    "definition": " A set of instructions assigned to a name that can be used again later.\n",
+    "definition": "A set of instructions assigned to a name that can be used again later.",
     "chapter": "Programming"
   },
   {
     "keyword": "function call",
-    "definition": " The process of assigning arguments to new variables and running the instructions assigned to a function.\n",
+    "definition": "The process of assigning arguments to new variables and running the instructions assigned to a function.",
     "chapter": "Programming"
   },
   {
     "keyword": "global variable",
-    "definition": " A variable that is created outside of a user-defined function and is readable from the user-defined function's body if its name is not hidden by a local variable.\n",
+    "definition": "A variable that is created outside of a user-defined function and is readable from the user-defined function's body if its name is not hidden by a local variable.",
     "chapter": "Programming"
   },
   {
     "keyword": "indentation",
-    "definition": " The number of spaces at the start of each line of source code.\n",
+    "definition": "The number of spaces at the start of each line of source code.",
     "chapter": "Programming"
   },
   {
     "keyword": "literal",
-    "definition": " The format for representing a value directly in source code.\n",
+    "definition": "The format for representing a value directly in source code.",
     "chapter": "Programming"
   },
   {
     "keyword": "local variable",
-    "definition": " A variable that is created inside a user-defined function and can only be used in the user-defined function's body.\n",
+    "definition": "A variable that is created inside a user-defined function and can only be used in the user-defined function's body.",
     "chapter": "Programming"
   },
   {
     "keyword": "nested function call",
-    "definition": " The process of using the return value of one function call as an argument for another function call.\n",
+    "definition": "The process of using the return value of one function call as an argument for another function call.",
     "chapter": "Programming"
   },
   {
     "keyword": "parameter",
-    "definition": " A special variable in a user-defined function that an argument is assigned to when the user-defined function is called.\n",
+    "definition": "A special variable in a user-defined function that an argument is assigned to when the user-defined function is called.",
     "chapter": "Programming"
   },
   {
     "keyword": "return instruction",
-    "definition": " An instruction that ends the function immediately and treats the original function call as the provided return value.\n",
+    "definition": "An instruction that ends the function immediately and treats the original function call as the provided return value.",
     "chapter": "Programming"
   },
   {
     "keyword": "return value",
-    "definition": " The output of a function, or the value that a function call is treated as, after the instructions assigned to the function are completed.\n",
+    "definition": "The output of a function, or the value that a function call is treated as, after the instructions assigned to the function are completed.",
     "chapter": "Programming"
   },
   {
     "keyword": "signature",
-    "definition": " A unique identifier for a user-defined function, indicating its name and parameters.\n",
+    "definition": "A unique identifier for a user-defined function, indicating its name and parameters.",
     "chapter": "Programming"
   },
   {
     "keyword": "type casting",
-    "definition": " The process of converting a value of one data type to another.\n",
+    "definition": "The process of converting a value of one data type to another.",
     "chapter": "Programming"
   },
   {
     "keyword": "user-defined function",
-    "definition": " A function provided by the user of a programming language.\n",
+    "definition": "A function provided by the user of a programming language.",
     "chapter": "Programming"
   },
   {
     "keyword": "binary operator",
-    "definition": " An operator that takes in exactly two values. \n",
+    "definition": "An operator that takes in exactly two values.",
     "chapter": "Programming"
   },
   {
     "keyword": "compound statement",
-    "definition": " A statement that can contain multiple statements as its components.\n",
+    "definition": "A statement that can contain multiple statements as its components.",
     "chapter": "Programming"
   },
   {
     "keyword": "concatenation",
-    "definition": " The action of joining two sequences to make a longer sequence.\n",
+    "definition": "The action of joining two sequences to make a longer sequence.",
     "chapter": "Programming"
   },
   {
     "keyword": "control flow statement",
-    "definition": " A programming instruction that changes the order in which other instructions are run.\n",
+    "definition": "A programming instruction that changes the order in which other instructions are run.",
     "chapter": "Programming"
   },
   {
     "keyword": "floor division",
-    "definition": " A division operation that rounds down to the nearest integer.\n",
+    "definition": "A division operation that rounds down to the nearest integer.",
     "chapter": "Programming"
   },
   {
     "keyword": "loop",
-    "definition": " A set of instructions or commands that are repeated until a condition is met.\n",
+    "definition": "A set of instructions or commands that are repeated until a condition is met.",
     "chapter": "Programming"
   },
   {
     "keyword": "immutable",
-    "definition": " A data type cannot be changed once created. Examples include integers, floats, booleans, strings, and tuples.\n",
+    "definition": "A data type cannot be changed once created. Examples include integers, floats, booleans, strings, and tuples.",
     "chapter": "Programming"
   },
   {
     "keyword": "index",
-    "definition": " An integer value for the position of a value in a sequence.\n",
+    "definition": "An integer value for the position of a value in a sequence.",
     "chapter": "Programming"
   },
   {
     "keyword": "index operator",
-    "definition": " An operator for returning a value in a sequence. \n",
+    "definition": "An operator for returning a value in a sequence.",
     "chapter": "Programming"
   },
   {
     "keyword": "operator",
-    "definition": " A symbol for performing instructions like a function but using a different syntax.\n",
+    "definition": "A symbol for performing instructions like a function but using a different syntax.",
     "chapter": "Programming"
   },
   {
     "keyword": "sequence",
-    "definition": " Any data type for storing multiple values in order: usually a list, string or range.\n",
+    "definition": "Any data type for storing multiple values in order: usually a list, string or range.",
     "chapter": "Programming"
   },
   {
     "keyword": "slice operator",
-    "definition": " An operator for returning a sequence (not a value) by extracting values from a sequence.\n",
+    "definition": "An operator for returning a sequence (not a value) by extracting values from a sequence.",
     "chapter": "Programming"
   },
   {
     "keyword": "statement",
-    "definition": " An element of source code that represents a complete instruction in a programming language.\n",
+    "definition": "An element of source code that represents a complete instruction in a programming language.",
     "chapter": "Programming"
   },
   {
     "keyword": "structured programming language",
-    "definition": " A programming language that either encourages or is limited to the use of sequence, selection and iteration constructs that have exactly one entry point and one exit point.\n",
+    "definition": "A programming language that either encourages or is limited to the use of sequence, selection and iteration constructs that have exactly one entry point and one exit point.",
     "chapter": "Programming"
   },
   {
     "keyword": "character",
-    "definition": " A unit of information for strings, usually a symbol, letter or digit.\n",
+    "definition": "A unit of information for strings, usually a symbol, letter or digit.",
     "chapter": "Programming"
   },
   {
     "keyword": "check digit",
-    "definition": " A digit or letter that is added to a sequence of digits to detect errors in manual input.\n",
+    "definition": "A digit or letter that is added to a sequence of digits to detect errors in manual input.",
     "chapter": "Program Development"
   },
   {
     "keyword": "deploy code",
-    "definition": " The fifth and final stage of program development. This is the stage where the program is actually rolled out and used by its intended audience. Some of the tasks that can be performed under this stage include: training users to use the program",
+    "definition": "The fifth and final stage of program development. This is the stage where the program is actually rolled out and used by its intended audience. Some of the tasks that can be performed under this stage include: training users to use the program",
     "chapter": "Program Development"
   },
   {
     "keyword": "gather requirements",
-    "definition": " The first stage of program development. The goal of this stage is to determine the nature of the problem, why a program is needed and what the program is expected to do.\n",
+    "definition": "The first stage of program development. The goal of this stage is to determine the nature of the problem, why a program is needed and what the program is expected to do.",
     "chapter": "Program Development"
   },
   {
     "keyword": "method",
-    "definition": " A function that is associated with a value. \n",
+    "definition": "A function that is associated with a value.",
     "chapter": "Program Development"
   },
   {
     "keyword": "module",
-    "definition": " A collection of variables and functions that need to be loaded before they can be used.\n",
+    "definition": "A collection of variables and functions that need to be loaded before they can be used.",
     "chapter": "Program Development"
   },
   {
     "keyword": "plan solutions",
-    "definition": "  The second stage of program development. The goal of this stage is to consider the options available before any code is written, and to choose an algorithm based on the resources available. Some of the tasks that can be done include: manually solving different simplified examples of the problem and generalising the steps",
+    "definition": "The second stage of program development. The goal of this stage is to consider the options available before any code is written, and to choose an algorithm based on the resources available. Some of the tasks that can be done include: manually solving different simplified examples of the problem and generalising the steps",
     "chapter": "Program Development"
   },
   {
     "keyword": "replacement field",
-    "definition": " A placeholder denoted by a set of curly braces that will be replaced with an argument using the str.format() method.\n",
+    "definition": "A placeholder denoted by a set of curly braces that will be replaced with an argument using the str.format() method.",
     "chapter": "Program Development"
   },
   {
     "keyword": "test and refine code",
-    "definition": " The fourth stage of program development. Some possible reasons the code may require further refinement are: the programmer may have made mistakes in translating the planned algorithm into code or may have forgotten to consider exceptional cases where the input would need to be treated specially",
+    "definition": "The fourth stage of program development. Some possible reasons the code may require further refinement are: the programmer may have made mistakes in translating the planned algorithm into code or may have forgotten to consider exceptional cases where the input would need to be treated specially",
     "chapter": "Program Development"
   },
   {
     "keyword": "test cases",
-    "definition": " Sets of inputs and the corresponding set of expected outputs for a particular program used to verify whether the program works as intended.\n",
+    "definition": "Sets of inputs and the corresponding set of expected outputs for a particular program used to verify whether the program works as intended.",
     "chapter": "Program Development"
   },
   {
     "keyword": "testing",
-    "definition": " A process by which defects in a program can be detected.\n",
+    "definition": "A process by which defects in a program can be detected.",
     "chapter": "Program Development"
   },
   {
     "keyword": "write code",
-    "definition": " The third stage of program development. The goal of this stage is to write code that performs the algorithm as planned in the previous stage as efficiently as possible.\n",
+    "definition": "The third stage of program development. The goal of this stage is to write code that performs the algorithm as planned in the previous stage as efficiently as possible.",
     "chapter": "Program Development"
   },
   {
     "keyword": "boundary conditions",
-    "definition": " Situations where input data is at the limit of what the program is designed to cope with or where special handling is required.\n",
+    "definition": "Situations where input data is at the limit of what the program is designed to cope with or where special handling is required.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "bug",
-    "definition": " A defect in a program that causes it to behave in an unintended manner.\n",
+    "definition": "A defect in a program that causes it to behave in an unintended manner.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "crash",
-    "definition": " When a program suddenly stops due to an error.\n",
+    "definition": "When a program suddenly stops due to an error.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "data validation",
-    "definition": " The process of ensuring that the input data supplied to a system satisfies a set of rules such that it is sensible, complete and within acceptable boundaries.\n",
+    "definition": "The process of ensuring that the input data supplied to a system satisfies a set of rules such that it is sensible, complete and within acceptable boundaries.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "debugging",
-    "definition": " The process of identifying and removing defects from a program.\n",
+    "definition": "The process of identifying and removing defects from a program.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "error conditions",
-    "definition": " Situations where input data would normally be rejected by the program.\n",
+    "definition": "Situations where input data would normally be rejected by the program.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "format check",
-    "definition": " The process of ensuring that input data matches a required arrangement or pattern.\n",
+    "definition": "The process of ensuring that input data matches a required arrangement or pattern.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "hang",
-    "definition": " When a program is unresponsive due to an error.\n",
+    "definition": "When a program is unresponsive due to an error.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "length check",
-    "definition": " The process of ensuring that input data is not too short or too long.\n",
+    "definition": "The process of ensuring that input data is not too short or too long.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "logic errors",
-    "definition": " Errors that cause the output of a program to be different from what is expected and usually do not cause the program to crash or hang immediately. They occur due to the use of an incorrect or incomplete algorithm. They are detected while the program is being run.\n",
+    "definition": "Errors that cause the output of a program to be different from what is expected and usually do not cause the program to crash or hang immediately. They occur due to the use of an incorrect or incomplete algorithm. They are detected while the program is being run.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "normal conditions",
-    "definition": " Situations where input data follows what is expected during normal use of the program.\n",
+    "definition": "Situations where input data follows what is expected during normal use of the program.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "presence check",
-    "definition": " The process of ensuring that all the required inputs are provided.\n",
+    "definition": "The process of ensuring that all the required inputs are provided.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "range check",
-    "definition": " The process of ensuring that input data is within the required range of values.\n",
+    "definition": "The process of ensuring that input data is within the required range of values.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "run-time errors",
-    "definition": " Errors that occur while a program is running, usually causing the program to crash or hang. They occur due to the incorrect use of commands, input data that has not been properly validated or conditions occurring outside of the program\u2019s control (such as running out of memory). They are detected while the program is being run.\n",
+    "definition": "Errors that occur while a program is running, usually causing the program to crash or hang. They occur due to the incorrect use of commands, input data that has not been properly validated or conditions occurring outside of the program\u2019s control (such as running out of memory). They are detected while the program is being run.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "syntax errors",
-    "definition": " Errors that result from incorrect source code that does not follow the rules of the language. They occur due to spelling mistakes or the incorrect sequence of symbols in source code. They are detected when the compiler or interpreter tries to translate the source code to machine code.\n",
+    "definition": "Errors that result from incorrect source code that does not follow the rules of the language. They occur due to spelling mistakes or the incorrect sequence of symbols in source code. They are detected when the compiler or interpreter tries to translate the source code to machine code.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "testing in chunks or parts",
-    "definition": " A common debugging technique. This means to decompose the program into smaller parts and test the parts one at a time. This allows us to narrow down the possible locations of any bugs and reduce the amount of code that we need to study at any one time. We can do this by commenting out code that we are not testing, or by putting each part in its own function.\n",
+    "definition": "A common debugging technique. This means to decompose the program into smaller parts and test the parts one at a time. This allows us to narrow down the possible locations of any bugs and reduce the amount of code that we need to study at any one time. We can do this by commenting out code that we are not testing, or by putting each part in its own function.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "intermittent print statements",
-    "definition": " A common debugging technique. By doing this to output the value of important variables inside a loop, we are able to get valuable information of how the variables change over time, just like what we were able to do with trace tables for flowcharts.\n",
+    "definition": "A common debugging technique. By doing this to output the value of important variables inside a loop, we are able to get valuable information of how the variables change over time, just like what we were able to do with trace tables for flowcharts.",
     "chapter": "Program Testing"
   },
   {
     "keyword": "access control",
-    "definition": " The ability of a computer to control a user\u2019s access to data and resources, also known as 'authorisation'.\n",
+    "definition": "The ability of a computer to control a user\u2019s access to data and resources, also known as 'authorisation'.",
     "chapter": "Ethics"
   },
   {
     "keyword": "administrator",
-    "definition": " A special user who can override the permissions for almost any file or folder.\n",
+    "definition": "A special user who can override the permissions for almost any file or folder.",
     "chapter": "Ethics"
   },
   {
     "keyword": "administrator rights",
-    "definition": " The ability of a user to perform tasks related to authentication and authorisation, such creating and removing user accounts, resetting passwords and overriding file permissions.\n",
+    "definition": "The ability of a user to perform tasks related to authentication and authorisation, such creating and removing user accounts, resetting passwords and overriding file permissions.",
     "chapter": "Ethics"
   },
   {
     "keyword": "application",
-    "definition": " Software designed for users to perform specific tasks.\n",
+    "definition": "Software designed for users to perform specific tasks.",
     "chapter": "Ethics"
   },
   {
     "keyword": "authentication",
-    "definition": " The process of verifying the identity of a user.\n",
+    "definition": "The process of verifying the identity of a user.",
     "chapter": "Ethics"
   },
   {
     "keyword": "authentication factor",
-    "definition": " The category of evidence that is used for authentication: something the user knows (e.g. password) or owns (e.g. mobile phone), or something that is measured from a physical part of the user (e.g. thumbprint).\n",
+    "definition": "The category of evidence that is used for authentication: something the user knows (e.g. password) or owns (e.g. mobile phone), or something that is measured from a physical part of the user (e.g. thumbprint).",
     "chapter": "Ethics"
   },
   {
     "keyword": "backups",
-    "definition": " Copies of data that are made in case the original is damaged or lost. Making regular instances of these of data will help to prevent the loss of data in the event of data corruption.\n",
+    "definition": "Copies of data that are made in case the original is damaged or lost. Making regular instances of these of data will help to prevent the loss of data in the event of data corruption.",
     "chapter": "Ethics"
   },
   {
     "keyword": "biometrics",
-    "definition": " A type of authentication based on the measurement of human physical characteristics, such as fingerprint or voice. \n",
+    "definition": "A type of authentication based on the measurement of human physical characteristics, such as fingerprint or voice.",
     "chapter": "Ethics"
   },
   {
     "keyword": "data corruption",
-    "definition": " Something that occurs when computer data is made unusable by errors or alterations.\n",
+    "definition": "Something that occurs when computer data is made unusable by errors or alterations.",
     "chapter": "Ethics"
   },
   {
     "keyword": "data loss",
-    "definition": " If corrupted data cannot be recovered or replaced, this occurs.\n",
+    "definition": "If corrupted data cannot be recovered or replaced, this occurs.",
     "chapter": "Ethics"
   },
   {
     "keyword": "encryption",
-    "definition": " The process of encoding a message so that a secret key is needed to decode the data. It is often used to protect data from unauthorised access by allowing only authorised users to have the secret key.\n",
+    "definition": "The process of encoding a message so that a secret key is needed to decode the data. It is often used to protect data from unauthorised access by allowing only authorised users to have the secret key.",
     "chapter": "Ethics"
   },
   {
     "keyword": "firewall",
-    "definition": " A device or computer program that prevents unauthorised access to or from a private network.\n",
+    "definition": "A device or computer program that prevents unauthorised access to or from a private network.",
     "chapter": "Ethics"
   },
   {
     "keyword": "identity theft",
-    "definition": " The impersonation of another person to steal personal details such as name and identity number for fraudulent purposes.\n",
+    "definition": "The impersonation of another person to steal personal details such as name and identity number for fraudulent purposes.",
     "chapter": "Ethics"
   },
   {
     "keyword": "intranet",
-    "definition": " A private network that only authorised users within an organisation can access.\n",
+    "definition": "A private network that only authorised users within an organisation can access.",
     "chapter": "Ethics"
   },
   {
     "keyword": "permissions",
-    "definition": " The settings to control the ability of users to view or make changes to the contents of a file or folder.\n",
+    "definition": "The settings to control the ability of users to view or make changes to the contents of a file or folder.",
     "chapter": "Ethics"
   },
   {
     "keyword": "privacy",
-    "definition": " The ability to keep specific data or resources from being known by others.\n",
+    "definition": "The ability to keep specific data or resources from being known by others.",
     "chapter": "Ethics"
   },
   {
     "keyword": "privacy policy",
-    "definition": " A set of rules and practices followed by an organisation regarding the collection, protection and use of personal or private data provided by users.\n",
+    "definition": "A set of rules and practices followed by an organisation regarding the collection, protection and use of personal or private data provided by users.",
     "chapter": "Ethics"
   },
   {
     "keyword": "security token",
-    "definition": " A device that is used specifically for authentication purposes.\n",
+    "definition": "A device that is used specifically for authentication purposes.",
     "chapter": "Ethics"
   },
   {
     "keyword": "traffic",
-    "definition": " The transmission of data over a network.\n",
+    "definition": "The transmission of data over a network.",
     "chapter": "Ethics"
   },
   {
     "keyword": "two-factor authentication",
-    "definition": " A type of authentication that uses evidence from both something the user knows (password, or personal identification number PIN) and something the user owns (one-time password, OTP from a security token or mobile phone).\n",
+    "definition": "A type of authentication that uses evidence from both something the user knows (password, or personal identification number PIN) and something the user owns (one-time password, OTP from a security token or mobile phone).",
     "chapter": "Ethics"
   },
   {
     "keyword": "unauthorised access",
-    "definition": " A situation where data owned by someone is used by someone else without permission. They can occur due to poor authentication, poor access control or authorisation, and poor understanding of privacy policies.\n",
+    "definition": "A situation where data owned by someone is used by someone else without permission. They can occur due to poor authentication, poor access control or authorisation, and poor understanding of privacy policies.",
     "chapter": "Ethics"
   },
   {
     "keyword": "uninterruptible power supply",
-    "definition": " A device that provides enough emergency power for a computer to properly shut down in case of a power failure.\n",
+    "definition": "A device that provides enough emergency power for a computer to properly shut down in case of a power failure.",
     "chapter": "Ethics"
   },
   {
     "keyword": "anti-spyware",
-    "definition": " Software to detect, remove and stop spyware from running.\n",
+    "definition": "Software to detect, remove and stop spyware from running.",
     "chapter": "Ethics"
   },
   {
     "keyword": "anti-virus",
-    "definition": " Software to detect, remove and stop viruses and other malware from running.\n",
+    "definition": "Software to detect, remove and stop viruses and other malware from running.",
     "chapter": "Ethics"
   },
   {
     "keyword": "citation",
-    "definition": " A statement to acknowledge and provide credit to the author(s) of reproduced materials in published books and articles.\n",
+    "definition": "A statement to acknowledge and provide credit to the author(s) of reproduced materials in published books and articles.",
     "chapter": "Ethics"
   },
   {
     "keyword": "cookie",
-    "definition": " A small file used by websites to store personal information on a user\u2019s web browser. Although usually not malicious in nature, they are sometimes misused to collect personal information about users.\n",
+    "definition": "A small file used by websites to store personal information on a user\u2019s web browser. Although usually not malicious in nature, they are sometimes misused to collect personal information about users.",
     "chapter": "Ethics"
   },
   {
     "keyword": "copyright",
-    "definition": " The legal right of owners to control the use and distribution of their intellectual property.\n",
+    "definition": "The legal right of owners to control the use and distribution of their intellectual property.",
     "chapter": "Ethics"
   },
   {
     "keyword": "copyright infringement",
-    "definition": " The use or distribution of copyrighted work without the permission of the copyright owner. To avoid this, check and follow the websites\u2019 terms and conditions, limit reproduction of a copyrighted work to 10% (for education purposes only), and consider using public domain material instead.\n",
+    "definition": "The use or distribution of copyrighted work without the permission of the copyright owner. To avoid this, check and follow the websites\u2019 terms and conditions, limit reproduction of a copyrighted work to 10% (for education purposes only), and consider using public domain material instead.",
     "chapter": "Ethics"
   },
   {
     "keyword": "crack",
-    "definition": " A program that modifies proprietary software so that the software cannot detect that it is being used illegally.\n",
+    "definition": "A program that modifies proprietary software so that the software cannot detect that it is being used illegally.",
     "chapter": "Ethics"
   },
   {
     "keyword": "free and open-source software",
-    "definition": " Software where users are given freedom to change, copy, study and share the software and its source code.\n",
+    "definition": "Software where users are given freedom to change, copy, study and share the software and its source code.",
     "chapter": "Ethics"
   },
   {
     "keyword": "freeware",
-    "definition": " Proprietary software that is available for use at no cost.\n",
+    "definition": "Proprietary software that is available for use at no cost.",
     "chapter": "Ethics"
   },
   {
     "keyword": "intellectual property",
-    "definition": " Creations of the mind that have value but can exist purely as data with no physical form.\n",
+    "definition": "Creations of the mind that have value but can exist purely as data with no physical form.",
     "chapter": "Ethics"
   },
   {
     "keyword": "licence",
-    "definition": " The official description of activities that are authorised or forbidden by the owner of intellectual property.\n",
+    "definition": "The official description of activities that are authorised or forbidden by the owner of intellectual property.",
     "chapter": "Ethics"
   },
   {
     "keyword": "malware",
-    "definition": " Software that is intentionally used to damage, disrupt or gain unauthorised access to a computer system, aka 'Malicious software'.\n",
+    "definition": "Software that is intentionally used to damage, disrupt or gain unauthorised access to a computer system, aka 'Malicious software'.",
     "chapter": "Ethics"
   },
   {
     "keyword": "open courseware",
-    "definition": " Higher-education course materials such as videos and notes created by universities and distributed for free on the Internet.\n",
+    "definition": "Higher-education course materials such as videos and notes created by universities and distributed for free on the Internet.",
     "chapter": "Ethics"
   },
   {
     "keyword": "operating system",
-    "definition": " Software that is designed to support a computer's basic functions.\n",
+    "definition": "Software that is designed to support a computer's basic functions.",
     "chapter": "Ethics"
   },
   {
     "keyword": "pharming",
-    "definition": " The interception of requests sent from a computer to a legitimate website and redirection to a fake website to steal personal data or credit card details. The stolen data can then be used for unauthorised access to even more of the victim's data. It is difficult to detect as the fake website uses the same address as the real website.\n",
+    "definition": "The interception of requests sent from a computer to a legitimate website and redirection to a fake website to steal personal data or credit card details. The stolen data can then be used for unauthorised access to even more of the victim's data. It is difficult to detect as the fake website uses the same address as the real website.",
     "chapter": "Ethics"
   },
   {
     "keyword": "phishing",
-    "definition": " The use of emails and fake websites that appear to be from reputable companies in order to steal personal information such as passwords and credit card numbers from users. The stolen data can then be used for unauthorised access to even more of the victim's data.\n",
+    "definition": "The use of emails and fake websites that appear to be from reputable companies in order to steal personal information such as passwords and credit card numbers from users. The stolen data can then be used for unauthorised access to even more of the victim's data.",
     "chapter": "Ethics"
   },
   {
     "keyword": "plagiarism",
-    "definition": " The act of passing off someone else\u2019s original work as one\u2019s own.\n",
+    "definition": "The act of passing off someone else\u2019s original work as one\u2019s own.",
     "chapter": "Ethics"
   },
   {
     "keyword": "proprietary software",
-    "definition": " Commercial software for which most of the legal protections under copyright are retained.\n",
+    "definition": "Commercial software for which most of the legal protections under copyright are retained.",
     "chapter": "Ethics"
   },
   {
     "keyword": "public domain software",
-    "definition": " Software where the legal protections that are typically granted to intellectual property have either expired, been surrendered or are simply inapplicable.\n",
+    "definition": "Software where the legal protections that are typically granted to intellectual property have either expired, been surrendered or are simply inapplicable.",
     "chapter": "Ethics"
   },
   {
     "keyword": "shareware",
-    "definition": " Demonstration software that is distributed for free but for a specific evaluation period only.\n",
+    "definition": "Demonstration software that is distributed for free but for a specific evaluation period only.",
     "chapter": "Ethics"
   },
   {
     "keyword": "signature",
-    "definition": " An aspect of malware, unique evidence that is used to detect a known version of some malicious software.\n",
+    "definition": "An aspect of malware, unique evidence that is used to detect a known version of some malicious software.",
     "chapter": "Ethics"
   },
   {
     "keyword": "software piracy",
-    "definition": " The crime of copying, distributing and/or using proprietary software in a manner that is not permitted by its licence.\n",
+    "definition": "The crime of copying, distributing and/or using proprietary software in a manner that is not permitted by its licence.",
     "chapter": "Ethics"
   },
   {
     "keyword": "spamming",
-    "definition": " The mass distribution of unwanted messages or advertising to email addresses which are collected from sources such as public mailing lists, social networking sites, company websites and personal blogs.\n",
+    "definition": "The mass distribution of unwanted messages or advertising to email addresses which are collected from sources such as public mailing lists, social networking sites, company websites and personal blogs.",
     "chapter": "Ethics"
   },
   {
     "keyword": "spyware",
-    "definition": " A hidden program that secretly collects personal information about its users and transmits this information to attackers without the users\u2019 knowledge. The collected data can then be used for unauthorised access to even more of the victim's data. \n",
+    "definition": "A hidden program that secretly collects personal information about its users and transmits this information to attackers without the users\u2019 knowledge. The collected data can then be used for unauthorised access to even more of the victim's data.",
     "chapter": "Ethics"
   },
   {
     "keyword": "Trojan horse",
-    "definition": " A computer program that pretends to be a harmless file or useful application. Once it is run, it does something harmful such as giving intruders unauthorised access to the computer instead.\n",
+    "definition": "A computer program that pretends to be a harmless file or useful application. Once it is run, it does something harmful such as giving intruders unauthorised access to the computer instead.",
     "chapter": "Ethics"
   },
   {
     "keyword": "virus",
-    "definition": " A computer program that attaches itself to a normally harmless program and modifies it. When the modified program is run by a user, it attaches copies of itself to other programs it can find, thus \u2018infecting\u2019 them.\n",
+    "definition": "A computer program that attaches itself to a normally harmless program and modifies it. When the modified program is run by a user, it attaches copies of itself to other programs it can find, thus \u2018infecting\u2019 them.",
     "chapter": "Ethics"
   },
   {
     "keyword": "worm",
-    "definition": " A computer program that runs automatically and attempts to spread by sending copies of itself to other computers. It does not need to attach itself to an existing program.\n",
+    "definition": "A computer program that runs automatically and attempts to spread by sending copies of itself to other computers. It does not need to attach itself to an existing program.",
     "chapter": "Ethics"
   },
   {
     "keyword": "American Standard Code for Information Interchange",
-    "definition": " A character encoding standard that defines how numbers are used to represent common characters that can be typed using a keyboard, such as upper-case and lower-case letters. It is 7 bits long and only 128 distinct characters can be represented. They are often expressed in hexadecimal digits. Also known by its acronym 'ASCII'.\n",
+    "definition": "A character encoding standard that defines how numbers are used to represent common characters that can be typed using a keyboard, such as upper-case and lower-case letters. It is 7 bits long and only 128 distinct characters can be represented. They are often expressed in hexadecimal digits. Also known by its acronym 'ASCII'.",
     "chapter": "Number Systems & Applications"
   },
   {
     "keyword": "binary number system",
-    "definition": " A number system made up of two distinct digits, 0 and 1, used by computers to store numbers. Also called the base-2 system.\n",
+    "definition": "A number system made up of two distinct digits, 0 and 1, used by computers to store numbers. Also called the base-2 system.",
     "chapter": "Number Systems & Applications"
   },
   {
     "keyword": "denary number system",
-    "definition": " A number system that is made up of 10 unique digits. It is also called the base-10 system, or the decimal number system.\n",
+    "definition": "A number system that is made up of 10 unique digits. It is also called the base-10 system, or the decimal number system.",
     "chapter": "Number Systems & Applications"
   },
   {
     "keyword": "hexadecimal number system",
-    "definition": " A number system made up of 16 unique digits, 0-9 and A-F. A-F represent 10-15 respectively. Also called the base-16 system.\n",
+    "definition": "A number system made up of 16 unique digits, 0-9 and A-F. A-F represent 10-15 respectively. Also called the base-16 system.",
     "chapter": "Number Systems & Applications"
   },
   {
     "keyword": "Internet Protocol address",
-    "definition": " A sequence of bytes that is used to identify a computer or device on the Internet.  The two versions used today are IPv4, which has 4 bytes and is represented by 4 denary numbers separated by dots, and IPv6, which has 16 bytes and is represented by 16 groups of 4 hexadecimal digits separated by colons.\n",
+    "definition": "A sequence of bytes that is used to identify a computer or device on the Internet.  The two versions used today are IPv4, which has 4 bytes and is represented by 4 denary numbers separated by dots, and IPv6, which has 16 bytes and is represented by 16 groups of 4 hexadecimal digits separated by colons.",
     "chapter": "Number Systems & Applications"
   },
   {
     "keyword": "leading zero",
-    "definition": " A zero digit to the left of the first non-zero digit in a number.\n",
+    "definition": "A zero digit to the left of the first non-zero digit in a number.",
     "chapter": "Number Systems & Applications"
   },
   {
     "keyword": "Media Access Control address",
-    "definition": " A sequence of bytes (usually permanent in nature) that is used to identify a particular network interface controller. It has 6 bytes, usually shown as a sequence of 6 hexadecimal numbers (two digits each) separated by hyphens or colons.\n",
+    "definition": "A sequence of bytes (usually permanent in nature) that is used to identify a particular network interface controller. It has 6 bytes, usually shown as a sequence of 6 hexadecimal numbers (two digits each) separated by hyphens or colons.",
     "chapter": "Number Systems & Applications"
   },
   {
     "keyword": "network address",
-    "definition": " A unique name or sequence of bytes that is used to identify a computer or device in a network.\n",
+    "definition": "A unique name or sequence of bytes that is used to identify a computer or device in a network.",
     "chapter": "Number Systems & Applications"
   },
   {
     "keyword": "RGB colour codes",
-    "definition": " A method of representing colours on a computer as a combination of different intensities of red, green and blue light. Each light intensity value is stored in a single byte, which contains 8 bits, and is usually represented using a two-digit hexadecimal number.\n",
+    "definition": "A method of representing colours on a computer as a combination of different intensities of red, green and blue light. Each light intensity value is stored in a single byte, which contains 8 bits, and is usually represented using a two-digit hexadecimal number.",
     "chapter": "Number Systems & Applications"
   },
   {
     "keyword": "Unicode",
-    "definition": " A character encoding standard that can be used to represent characters in languages other than English. The number of bits used to represent each character can vary from 8 to 32 bits depending on the encoding scheme used. This flexibility means that over a million unique characters from many different written languages can be represented.\n",
+    "definition": "A character encoding standard that can be used to represent characters in languages other than English. The number of bits used to represent each character can vary from 8 to 32 bits depending on the encoding scheme used. This flexibility means that over a million unique characters from many different written languages can be represented.",
     "chapter": "Number Systems & Applications"
   },
   {
     "keyword": "Boolean",
-    "definition": " A type of value often used to determine the status of a system or a logical condition in an algorithm. They can be expressed in 0 or 1, False or True, Off or On, Low or High (voltage), and No or Yes.\n",
+    "definition": "A type of value often used to determine the status of a system or a logical condition in an algorithm. They can be expressed in 0 or 1, False or True, Off or On, Low or High (voltage), and No or Yes.",
     "chapter": "Logic Gates"
   },
   {
     "keyword": "logic circuit",
-    "definition": " A circuit that consists of only one logic gate or multiple logic gates connected together.\n",
+    "definition": "A circuit that consists of only one logic gate or multiple logic gates connected together.",
     "chapter": "Logic Gates"
   },
   {
     "keyword": "logic circuit diagram",
-    "definition": " A visual representation using symbols to show how the component logic gates are connected together in a logic circuit.\n",
+    "definition": "A visual representation using symbols to show how the component logic gates are connected together in a logic circuit.",
     "chapter": "Logic Gates"
   },
   {
     "keyword": "logic gate",
-    "definition": " An electrical circuit that performs logical operations based on one or more inputs and produces a single output.\n",
+    "definition": "An electrical circuit that performs logical operations based on one or more inputs and produces a single output.",
     "chapter": "Logic Gates"
   },
   {
     "keyword": "logic operation",
-    "definition": " An operation that acts on binary inputs to produce an output according to the laws of Boolean logic.\n",
+    "definition": "An operation that acts on binary inputs to produce an output according to the laws of Boolean logic.",
     "chapter": "Logic Gates"
   },
   {
     "keyword": "Sum-of-Product",
-    "definition": " One method to construct a Boolean statement from a truth table, in which each set of inputs that gives a '1' output (connected with AND operators) are 'OR'ed together.\n",
+    "definition": "One method to construct a Boolean statement from a truth table, in which each set of inputs that gives a '1' output (connected with AND operators) are 'OR'ed together.",
     "chapter": "Logic Gates"
   },
   {
     "keyword": "truth table",
-    "definition": " A table that shows the resulting output for every possible combination of inputs.\n",
+    "definition": "A table that shows the resulting output for every possible combination of inputs.",
     "chapter": "Logic Gates"
   },
   {
     "keyword": "absolute cell reference",
-    "definition": " Used when we do not want the cell reference in formulas to change when copied to other cells. To make one, type a dollar sign ($) before the column letter or row number that should not change.\n",
+    "definition": "Used when we do not want the cell reference in formulas to change when copied to other cells. To make one, type a dollar sign ($) before the column letter or row number that should not change.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "cell",
-    "definition": " The rectangular space located in a particular column and row.\n",
+    "definition": "The rectangular space located in a particular column and row.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "cell address",
-    "definition": " The location name for a cell formed by its column name and row number.\n",
+    "definition": "The location name for a cell formed by its column name and row number.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "cell reference",
-    "definition": " A description of a cell that can be used in a spreadsheet formula.\n",
+    "definition": "A description of a cell that can be used in a spreadsheet formula.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "constant",
-    "definition": " A non-calculated value that is entered directly into a cell and does not change.\n",
+    "definition": "A non-calculated value that is entered directly into a cell and does not change.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "data analysis",
-    "definition": " The stage in the data life cycle in which the processed data is studied to answer questions and to make decisions.\n",
+    "definition": "The stage in the data life cycle in which the processed data is studied to answer questions and to make decisions.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "data collection",
-    "definition": " The stage in the data life cycle in which data may be collected automatically by a computer or manually by performing interviews, making observations, conducting surveys, and so on.\n",
+    "definition": "The stage in the data life cycle in which data may be collected automatically by a computer or manually by performing interviews, making observations, conducting surveys, and so on.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "data distribution",
-    "definition": " The stage in the data life cycle where the results need to be distributed and shared with the relevant parties.\n",
+    "definition": "The stage in the data life cycle where the results need to be distributed and shared with the relevant parties.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "data life cycle",
-    "definition": " Something that has 4 stages: To collect, process, analyse and distribute data.\n",
+    "definition": "Something that has 4 stages: To collect, process, analyse and distribute data.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "data processing",
-    "definition": " The stage in the data life cycle in which collected data is checked for accuracy. Raw data may be imperfect due to input errors, missing data or contradictory data. It must be processed to ensure that the analysis done later will produce results that make sense.\n",
+    "definition": "The stage in the data life cycle in which collected data is checked for accuracy. Raw data may be imperfect due to input errors, missing data or contradictory data. It must be processed to ensure that the analysis done later will produce results that make sense.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "field",
-    "definition": " A column of data in a spreadsheet\n",
+    "definition": "A column of data in a spreadsheet",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "field name",
-    "definition": " A description of data stored in a particular column or field, aka a 'column heading'.\n",
+    "definition": "A description of data stored in a particular column or field, aka a 'column heading'.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "formula",
-    "definition": " Something that performs calculations on the data in a spreadsheet, it may contain functions, operators as well as cell and range references.\n",
+    "definition": "Something that performs calculations on the data in a spreadsheet, it may contain functions, operators as well as cell and range references.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "range address",
-    "definition": " The location name for a rectangular range of cells formed by the top-left cell's address, a colon (:) and the bottom-right cell's address.\n",
+    "definition": "The location name for a rectangular range of cells formed by the top-left cell's address, a colon (:) and the bottom-right cell's address.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "range reference",
-    "definition": " A description of multiple cells that can be used in a spreadsheet formula.\n",
+    "definition": "A description of multiple cells that can be used in a spreadsheet formula.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "record",
-    "definition": " Set of related data that describes a person or thing, usually refers to a row of data in a spreadsheet.\n",
+    "definition": "Set of related data that describes a person or thing, usually refers to a row of data in a spreadsheet.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "spreadsheet",
-    "definition": " An electronic worksheet used to manage and manipulate data arranged in columns and rows. Columns are labelled with letters and rows with numbers. \n",
+    "definition": "An electronic worksheet used to manage and manipulate data arranged in columns and rows. Columns are labelled with letters and rows with numbers.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "conditional formatting",
-    "definition": " A spreadsheet feature which automatically formats a cell based on given criteria. \n",
+    "definition": "A spreadsheet feature which automatically formats a cell based on given criteria.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "goal seek",
-    "definition": " The process of adjusting the value in one cell so that another cell can reach a particular value, usually done after defining the relationships between cells in a spreadsheet.\n",
+    "definition": "The process of adjusting the value in one cell so that another cell can reach a particular value, usually done after defining the relationships between cells in a spreadsheet.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "lookup table",
-    "definition": " An array or data structure that is searched through in order to find a particular value.\n",
+    "definition": "An array or data structure that is searched through in order to find a particular value.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "lookup value",
-    "definition": " A value to search for in order to find a particular row or column.\n",
+    "definition": "A value to search for in order to find a particular row or column.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "relational operators",
-    "definition": " Operators used to compare two values. The outputs are either TRUE or FALSE. The logical operators include less than (<), less than or equal to (<=), greater than (>), greater than or equal to (>=), equal to (=), not equal to (<>). This forms logical values.\n",
+    "definition": "Operators used to compare two values. The outputs are either TRUE or FALSE. The logical operators include less than (<), less than or equal to (<=), greater than (>), greater than or equal to (>=), equal to (=), not equal to (<>). This forms logical values.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "rule",
-    "definition": " The criterion for conditional formatting, specifies a range of cells, a condition to be tested for and the formatting to apply if the condition is true.\n",
+    "definition": "The criterion for conditional formatting, specifies a range of cells, a condition to be tested for and the formatting to apply if the condition is true.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "what-if",
-    "definition": " <keyword> questions can be answered due to a spreadsheet's ability to perform automatic recalculation of all affected cells if any referenced cells are changed. This feature can be used to predict the outcomes that may occur when particular values are changed.\n",
+    "definition": "<keyword> questions can be answered due to a spreadsheet's ability to perform automatic recalculation of all affected cells if any referenced cells are changed. This feature can be used to predict the outcomes that may occur when particular values are changed.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "Currency",
-    "definition": " A spreadsheet data type used for money. Typically displayed with a currency symbol (can be specified) and two decimal places.\n",
+    "definition": "A spreadsheet data type used for money. Typically displayed with a currency symbol (can be specified) and two decimal places.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "Date",
-    "definition": " A spreadsheet data type used for dates. Can be displayed and entered in a variety of styles.\n",
+    "definition": "A spreadsheet data type used for dates. Can be displayed and entered in a variety of styles.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "General",
-    "definition": " A spreadsheet data type used for data with no specific type.\n",
+    "definition": "A spreadsheet data type used for data with no specific type.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "Logical Value",
-    "definition": " A spreadsheet data type used for Boolean data. Must be either TRUE or FALSE.\n",
+    "definition": "A spreadsheet data type used for Boolean data. Must be either TRUE or FALSE.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "Number",
-    "definition": " A spreadsheet data type used for numbers. The number of decimal places to display and the type of digital separator can be specified.\n",
+    "definition": "A spreadsheet data type used for numbers. The number of decimal places to display and the type of digital separator can be specified.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "Percentage",
-    "definition": " A spreadsheet data type used for rates, ratios and proportions. Typically displayed and entered as a number with a \u201c%\u201d appended.\n",
+    "definition": "A spreadsheet data type used for rates, ratios and proportions. Typically displayed and entered as a number with a \u201c%\u201d appended.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "Text",
-    "definition": " A spreadsheet data type used for textual information. Typically displays exactly what is entered.\n",
+    "definition": "A spreadsheet data type used for textual information. Typically displays exactly what is entered.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "Time",
-    "definition": " A spreadsheet data type used for times and durations. Can be displayed and entered in a variety of styles.\n",
+    "definition": "A spreadsheet data type used for times and durations. Can be displayed and entered in a variety of styles.",
     "chapter": "Excel Theory"
   },
   {
     "keyword": "AND",
-    "definition": " (logical1, logical2, \u2026): Returns TRUE when all of the given logical values or values in the given range/cell references are TRUE, otherwise, returns FALSE.\n",
+    "definition": "(logical1, logical2, \u2026): Returns TRUE when all of the given logical values or values in the given range/cell references are TRUE, otherwise, returns FALSE.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "AVERAGE",
-    "definition": " (number1, number2 \u2026): Returns the mean or average of the given numbers or numbers on the given range/cell references.\n",
+    "definition": "(number1, number2 \u2026): Returns the mean or average of the given numbers or numbers on the given range/cell references.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "CEILING.MATH",
-    "definition": " Returns number rounded up to the nearest whole number.\n",
+    "definition": "Returns number rounded up to the nearest whole number.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "COUNT",
-    "definition": " (range1, range2, \u2026): Returns the number of cells that contain numbers, currencies, dates, times and percentages in the given range references. Empty cells and cells with text or logical values are not counted.\n",
+    "definition": "(range1, range2, \u2026): Returns the number of cells that contain numbers, currencies, dates, times and percentages in the given range references. Empty cells and cells with text or logical values are not counted.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "COUNTA",
-    "definition": " (range1, range2, \u2026): Returns the number of non-empty cells in the given range references. Empty cells are not counted while cells with any other data type are counted.\n",
+    "definition": "(range1, range2, \u2026): Returns the number of non-empty cells in the given range references. Empty cells are not counted while cells with any other data type are counted.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "COUNTBLANK",
-    "definition": " (range): Returns the number of empty cells in range.\n",
+    "definition": "(range): Returns the number of empty cells in range.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "COUNTIF",
-    "definition": " (range, criteria): Returns the number of cells in range that are equal to or satisfy the condition in criteria.\n",
+    "definition": "(range, criteria): Returns the number of cells in range that are equal to or satisfy the condition in criteria.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "FLOOR.MATH",
-    "definition": " (number): Returns number rounded down to the nearest whole number.\n",
+    "definition": "(number): Returns number rounded down to the nearest whole number.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "HLOOKUP",
-    "definition": " (lookup_value, table_array, row_index_num, range_lookup): Looks for lookup_value in the first row of table_array and returns the value in row_index_num of the matching column. If range_lookup is TRUE or is left out, the function performs an approximate match. If range_lookup is FALSE, the function performs an exact match.\n",
+    "definition": "(lookup_value, table_array, row_index_num, range_lookup): Looks for lookup_value in the first row of table_array and returns the value in row_index_num of the matching column. If range_lookup is TRUE or is left out, the function performs an approximate match. If range_lookup is FALSE, the function performs an exact match.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "IF",
-    "definition": " (logical_test, value_if_true, value_if_false): Returns value_if_true when logical_test is TRUE and value_if_false when logical_test is FALSE.\n",
+    "definition": "(logical_test, value_if_true, value_if_false): Returns value_if_true when logical_test is TRUE and value_if_false when logical_test is FALSE.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "LARGE",
-    "definition": " (range, k): Returns the k-th largest number in range.\n",
+    "definition": "(range, k): Returns the k-th largest number in range.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "LEFT",
-    "definition": " (text, num_chars): Returns the first num_chars characters of the text value text. IF num_chars is left out, the function returns only the first character of text.\n",
+    "definition": "(text, num_chars): Returns the first num_chars characters of the text value text. IF num_chars is left out, the function returns only the first character of text.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "LEN",
-    "definition": " (text): Returns the number of characters in the text value text. \n",
+    "definition": "(text): Returns the number of characters in the text value text.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "MAX",
-    "definition": " (number1, number2, \u2026): Returns the largest number out of the given numbers or the numbers in the given range/cell references.\n",
+    "definition": "(number1, number2, \u2026): Returns the largest number out of the given numbers or the numbers in the given range/cell references.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "MEDIAN",
-    "definition": " (number1, number2, \u2026): Returns the median of the given numbers or numbers in the given range/cell references.\n",
+    "definition": "(number1, number2, \u2026): Returns the median of the given numbers or numbers in the given range/cell references.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "MID",
-    "definition": " (text, start_num, num_chars): Returns num_chars characters starting from position start_num of the text value text.\n",
+    "definition": "(text, start_num, num_chars): Returns num_chars characters starting from position start_num of the text value text.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "MIN",
-    "definition": " (number1, number2, \u2026): Returns the smallest number out of the given numbers or the numbers in the given range/cell references.\n",
+    "definition": "(number1, number2, \u2026): Returns the smallest number out of the given numbers or the numbers in the given range/cell references.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "MOD",
-    "definition": " (number, divisor): Returns the remainder when number is divided by divisor.\n",
+    "definition": "(number, divisor): Returns the remainder when number is divided by divisor.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "MODE.SNGL",
-    "definition": " (number1, number2, \u2026): Returns the most frequently occurring or repeated value in the given numbers or the given range/cell references.\n",
+    "definition": "(number1, number2, \u2026): Returns the most frequently occurring or repeated value in the given numbers or the given range/cell references.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "NOT",
-    "definition": " (logical): Returns TRUE when logical is FALSE and FALSE when logical is TRUE.\n",
+    "definition": "(logical): Returns TRUE when logical is FALSE and FALSE when logical is TRUE.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "OR",
-    "definition": " (logical1, logical2, \u2026): Returns TRUE when any of the given logical values or values in the given range/cell references is TRUE, otherwise, returns FALSE.\n",
+    "definition": "(logical1, logical2, \u2026): Returns TRUE when any of the given logical values or values in the given range/cell references is TRUE, otherwise, returns FALSE.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "POWER",
-    "definition": " (number, power): Returns number raised to the exponent power.\n",
+    "definition": "(number, power): Returns number raised to the exponent power.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "QUOTIENT",
-    "definition": " (number, divisor): Returns the quotient when number is divided by divisor.\n",
+    "definition": "(number, divisor): Returns the quotient when number is divided by divisor.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "RAND",
-    "definition": " (): Returns a random number greater than or equal to 0 and less than 1\n",
+    "definition": "(): Returns a random number greater than or equal to 0 and less than 1",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "RANDBETWEEN",
-    "definition": " (lowest, highest): Returns a random number between the whole numbers lowest and highest (both inclusive)\n",
+    "definition": "(lowest, highest): Returns a random number between the whole numbers lowest and highest (both inclusive)",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "RIGHT",
-    "definition": " (text, num_chars): Returns the last num_chars characters of the text value text. IF num_chars is left out, the function returns only the last character of text.\n",
+    "definition": "(text, num_chars): Returns the last num_chars characters of the text value text. IF num_chars is left out, the function returns only the last character of text.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "ROUND",
-    "definition": " (number, num_digits): Returns number rounded to num_digits decimal places\n",
+    "definition": "(number, num_digits): Returns number rounded to num_digits decimal places",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "SMALL",
-    "definition": " (range, k): Returns the k-th smallest number in range. \n",
+    "definition": "(range, k): Returns the k-th smallest number in range.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "SQRT",
-    "definition": " (number): Returns the square root of number.\n",
+    "definition": "(number): Returns the square root of number.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "SUM",
-    "definition": " (number1, number2, \u2026): Returns the total of the given numbers or numbers in the given range/cell references\n",
+    "definition": "(number1, number2, \u2026): Returns the total of the given numbers or numbers in the given range/cell references",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "SUMIF",
-    "definition": " (range, criteria, sum_range): Returns the total of the numbers in sum_range where the corresponding value in range is equal to or satisfies the condition in criteria. If sum_range is left out, then range is used as sum_range.\n",
+    "definition": "(range, criteria, sum_range): Returns the total of the numbers in sum_range where the corresponding value in range is equal to or satisfies the condition in criteria. If sum_range is left out, then range is used as sum_range.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "TODAY",
-    "definition": " (): Returns the current date.\n",
+    "definition": "(): Returns the current date.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "VLOOKUP",
-    "definition": " (lookup_value, table_array, col_index_num, range_lookup): Looks for lookup_value in the first column of table_array and returns the value in col_index_num of the matching row. If range_lookup is TRUE or is left out, the function performs an approximate match. If range_lookup is FALSE, the function performs an exact match.\n",
+    "definition": "(lookup_value, table_array, col_index_num, range_lookup): Looks for lookup_value in the first column of table_array and returns the value in col_index_num of the matching row. If range_lookup is TRUE or is left out, the function performs an approximate match. If range_lookup is FALSE, the function performs an exact match.",
     "chapter": "Excel Functions"
   },
   {
     "keyword": "bandwidth",
-    "definition": " The average number of bits of data a network can transmit from a source to a destination over the network in one second, usually measured in megabits per second (Mbps) or gigabits per second (Gbps).\n",
+    "definition": "The average number of bits of data a network can transmit from a source to a destination over the network in one second, usually measured in megabits per second (Mbps) or gigabits per second (Gbps).",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "computer network",
-    "definition": " A system of two or more computers that are connected together by a transmission medium for the exchange of data.\n",
+    "definition": "A system of two or more computers that are connected together by a transmission medium for the exchange of data.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "demodulation",
-    "definition": " The process of converting transmitted signals into digital data.\n",
+    "definition": "The process of converting transmitted signals into digital data.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "Ethernet",
-    "definition": " The most commonly used wired network protocol for local and metropolitan area networks.\n",
+    "definition": "The most commonly used wired network protocol for local and metropolitan area networks.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "local area network",
-    "definition": " A network of computing devices connected within a small geographical area, typically within the same building, such as a home, school or office.\n",
+    "definition": "A network of computing devices connected within a small geographical area, typically within the same building, such as a home, school or office.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "metropolitan area network",
-    "definition": " A network of computing devices typically spanning across two or more buildings within the same town or city.\n",
+    "definition": "A network of computing devices typically spanning across two or more buildings within the same town or city.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "modem",
-    "definition": " A device that converts digital data into a form suitable for transmission, and vice versa.\n",
+    "definition": "A device that converts digital data into a form suitable for transmission, and vice versa.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "modulation",
-    "definition": " The process of converting digital data into a form suitable for transmission.\n",
+    "definition": "The process of converting digital data into a form suitable for transmission.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "network bridge",
-    "definition": " A device that constructs a single network by connecting two similar networks together. \n",
+    "definition": "A device that constructs a single network by connecting two similar networks together.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "network hub",
-    "definition": " A device that transmits received packets to all connected devices.\n",
+    "definition": "A device that transmits received packets to all connected devices.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "network switch",
-    "definition": " A device that constructs a single network by connecting multiple similar networks together. \n",
+    "definition": "A device that constructs a single network by connecting multiple similar networks together.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "network interface controller",
-    "definition": " A hardware component that provides the hardware interface to enable the transfer of data between a device and a network.\n",
+    "definition": "A hardware component that provides the hardware interface to enable the transfer of data between a device and a network.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "network protocol",
-    "definition": " Set of standards and rules that govern how two or more devices communicate over a network.\n",
+    "definition": "Set of standards and rules that govern how two or more devices communicate over a network.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "packet",
-    "definition": " A unit of broken-up data containing a header with information about the source and destination addresses that are needed for transmission.\n",
+    "definition": "A unit of broken-up data containing a header with information about the source and destination addresses that are needed for transmission.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "port number",
-    "definition": " A number that is used together with an IP address to uniquely identify a program that is running on a network. All numbers are assigned in a range from 0 to 65535.\n",
+    "definition": "A number that is used together with an IP address to uniquely identify a program that is running on a network. All numbers are assigned in a range from 0 to 65535.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "router",
-    "definition": " A device that forwards packets between separate networks.\n",
+    "definition": "A device that forwards packets between separate networks.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "service set identifier",
-    "definition": " A 32-byte string that identifies a wireless access point (WAP) and all devices connected to it. All wireless devices connected to the same WAP must use the same identifier.\n",
+    "definition": "A 32-byte string that identifies a wireless access point (WAP) and all devices connected to it. All wireless devices connected to the same WAP must use the same identifier.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "transmission medium",
-    "definition": " The means of connecting two or more computers together, such as using copper cables, radio waves or light pulses, so that they may exchange data and interact with each other.\n",
+    "definition": "The means of connecting two or more computers together, such as using copper cables, radio waves or light pulses, so that they may exchange data and interact with each other.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "Wi-Fi",
-    "definition": " The most common wireless network protocol, which uses radio waves to transmit data.\n",
+    "definition": "The most common wireless network protocol, which uses radio waves to transmit data.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "wide area network",
-    "definition": " A network of computing devices covering large-scale geographical area, typically across multiple geographical locations.\n",
+    "definition": "A network of computing devices covering large-scale geographical area, typically across multiple geographical locations.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "wireless access point",
-    "definition": " A piece of network hardware that provides a connection between wireless devices up to 100 metres away and can connect to wired networks. \n",
+    "definition": "A piece of network hardware that provides a connection between wireless devices up to 100 metres away and can connect to wired networks.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "wireless network",
-    "definition": " A network of devices in which signals are transmitted without the use of a physical medium. The transmission is in the form of electromagnetic waves, such as radiowaves and microwaves. \n",
+    "definition": "A network of devices in which signals are transmitted without the use of a physical medium. The transmission is in the form of electromagnetic waves, such as radiowaves and microwaves.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "wired network",
-    "definition": " A network of devices connected by a physical medium, such as cables. Data transfer is typically faster and more secure in this kind of network. However as the number of devices and the distance between devices increase, the cost of setting up the network increases as well.\n",
+    "definition": "A network of devices connected by a physical medium, such as cables. Data transfer is typically faster and more secure in this kind of network. However as the number of devices and the distance between devices increase, the cost of setting up the network increases as well.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "bus topology",
-    "definition": " A network topology in which a common cable or backbone known as the bus connects all the devices. The bus is a medium that allows transmission of data.\n",
+    "definition": "A network topology in which a common cable or backbone known as the bus connects all the devices. The bus is a medium that allows transmission of data.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "checksum",
-    "definition": " A calculated value that is used to determine the integrity of transmitted data. The data and this value are then sent together. At the destination, this value is recalculated and compared to the sent value. If the value of the received value matches the sent value, the data was transmitted correctly. If they differ, an error has occurred.\n",
+    "definition": "A calculated value that is used to determine the integrity of transmitted data. The data and this value are then sent together. At the destination, this value is recalculated and compared to the sent value. If the value of the received value matches the sent value, the data was transmitted correctly. If they differ, an error has occurred.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "client",
-    "definition": "  A computer that initiates a connection to a server to request for resources and services to perform operations.\n",
+    "definition": "A computer that initiates a connection to a server to request for resources and services to perform operations.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "client-server network",
-    "definition": " A computer network in which one or more higher-capacity computers will act as servers while the remaining computers are clients.\n",
+    "definition": "A computer network in which one or more higher-capacity computers will act as servers while the remaining computers are clients.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "parity check",
-    "definition": " An error-checking technique which uses a parity bit to detect errors. This parity bit is an additional bit which can either be 0 or 1, depending on whether an odd or even parity system is used. In the odd parity system, the total number of 1 bits in each packet (including the parity bit) should be odd. In the even parity system, the total number of 1 bits in each packet (including the parity bit) should be even. \n",
+    "definition": "An error-checking technique which uses a parity bit to detect errors. This parity bit is an additional bit which can either be 0 or 1, depending on whether an odd or even parity system is used. In the odd parity system, the total number of 1 bits in each packet (including the parity bit) should be odd. In the even parity system, the total number of 1 bits in each packet (including the parity bit) should be even.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "peer-to-peer network",
-    "definition": " A type of network where all computers are considered as equals and the load is distributed among all computers. Each computer in the network is able to act as both a client and a server, communicating directly with other computers.\n",
+    "definition": "A type of network where all computers are considered as equals and the load is distributed among all computers. Each computer in the network is able to act as both a client and a server, communicating directly with other computers.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "ring topology",
-    "definition": " A network topology in which each computer is connected to two other computers in a ring formation. All the data is passed around the same direction. If a failure occurs in the cable or if a computer breaks down, the entire network will fail to function.\n",
+    "definition": "A network topology in which each computer is connected to two other computers in a ring formation. All the data is passed around the same direction. If a failure occurs in the cable or if a computer breaks down, the entire network will fail to function.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "server",
-    "definition": " A computer that shares resources with and responds to requests from devices and other servers on the network. Resources and services include providing central storage of files, sharing hardware such as printers, and controlling logins and network access.\n",
+    "definition": "A computer that shares resources with and responds to requests from devices and other servers on the network. Resources and services include providing central storage of files, sharing hardware such as printers, and controlling logins and network access.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "star topology",
-    "definition": " A network topology in which network hardware such as a hub or switch is at the centre of the network with connections to all the other computers. The computers will send data to the central network hardware and the hardware forwards the data to the destination.\n",
+    "definition": "A network topology in which network hardware such as a hub or switch is at the centre of the network with connections to all the other computers. The computers will send data to the central network hardware and the hardware forwards the data to the destination.",
     "chapter": "Computer Networks"
   },
   {
     "keyword": "network topology",
-    "definition": " Something that describes the physical layout of a network.",
+    "definition": "Something that describes the physical layout of a network.",
     "chapter": "Computer Networks"
   }
 ]
